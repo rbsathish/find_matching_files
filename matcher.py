@@ -12,7 +12,7 @@ file format :
 '''
 
 cwd_xml 	= cwd + "\\" + "xml\\"
-cwd_frames  = cwd + '\\' + 'test\\'
+cwd_frames  = cwd + '\\' + 'images\\'
 pathC = cwd + '\\matching_files\\'
 len_xml = len(cwd_xml)
 len_frames = len(cwd_frames)
